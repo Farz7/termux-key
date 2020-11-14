@@ -9,13 +9,13 @@
 
 * ```apt update```
 * ```apt install git -y```
-* ```git clone https://github.com/htr-tech/termux-key```
+* ```git clone https://github.com/Farz7/termux-key```
 * ```cd termux-key```
 * ```bash key.sh```
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-key && cd termux-key && bash key.sh
+apt update && apt install git -y && git clone https://github.com/Farz7/termux-key && cd termux-key && bash key.sh
 ```
 
 ## [+] Find Me on :
